@@ -1,6 +1,6 @@
 # git_intro
 
-This is the first hands on introduction to git.
+-This is the first hands on introduction to git, using the commit line.
 
 # setup
--This is how to setup git to be run
+-First add, then commit. 
