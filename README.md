@@ -5,5 +5,10 @@
 # setup
 -First add, then commit. 
 
+# Tools used
+-R
+-git
+-ggplot2
+
 # GitHub Location
 <https://github.com/cbbbcb/git_intro.git>
