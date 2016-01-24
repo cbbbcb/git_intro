@@ -4,3 +4,6 @@
 
 # setup
 -First add, then commit. 
+
+# GitHub Location
+<https://github.com/cbbbcb/git_intro.git>
